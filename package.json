@@ -1,0 +1,17 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "MediaPlayer with JavaScript",
+  "license": "MIT",
+  "author": "Santiago Salas <a.santiago.salas.b@gmail.com>",
+  "homepage": "https://SantiSB.github.io/Media-Player",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "live-server": "^1.2.1"
+  },
+  "main": "index.js",
+  "keywords": []
+}
