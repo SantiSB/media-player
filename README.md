@@ -1,7 +1,7 @@
 
 # Media Player
 
-:wave: Welcome ! I have created a simple media player using React and MUI. Check it out :point_down:
+:wave: Welcome ! I have created a simple media player using HTML, CSS and JavaScript. Check it out :point_down:
 
 :soccer: Here you can see the moment when Argentina won the FIFA World Cup 	:trophy:
 
