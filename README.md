@@ -8,7 +8,7 @@ This application allows you to relive the thrilling moment when the Argentine Na
 👉 [Vanilla JavaScript Argentina World Cup Champion Video Player 📺](https://santisb.github.io/media-player/) 
 
 ## 👨‍💻 How to Contribute
-I'm thrilled to have you contribute to the Rick and Morty Faves App !
+I'm thrilled to have you contribute to the Video Player App !
 Follow these steps to get started:
 
 ### Fork the Repository: 
