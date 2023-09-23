@@ -5,7 +5,7 @@ Welcome to the Argentina World Cup Champion Video Player App ! 👋
 This application allows you to relive the thrilling moment when the Argentine National Team lifts the World Cup. Built with pure JavaScript, HTML, and CSS, , you can play and pause the video at your leisure, as well as mute and unmute the audio. Immerse yourself in the excitement of Argentine soccer with just one click! ⚽
 
 ## Check It Out
-👉 [Vanilla JavaScript Argentina World Cup Champion Video Player 📺](https://santisb.github.io/Media-Player/) 
+👉 [Vanilla JavaScript Argentina World Cup Champion Video Player 📺](https://santisb.github.io/media-player/) 
 
 ## 👨‍💻 How to Contribute
 I'm thrilled to have you contribute to the Rick and Morty Faves App !
@@ -18,7 +18,7 @@ Click the "Fork" button at the upper-right corner of the repository page. This a
 Clone your forked repository to your local machine using this command:
 
 ```bash
-  git clone https://github.com/SantiSB/Media-Player.git
+  git clone https://github.com/SantiSB/media-player.git
 ```
 
 ### Switch to the Develop Branch: 
