@@ -1,65 +1,74 @@
+# Vanilla JavaScript Argentina World Cup Champion Video Player 📺
 
-# Media Player
+Welcome to the Argentina World Cup Champion Video Player App ! 👋
 
-:wave: Welcome ! I have created a simple media player using HTML, CSS and JavaScript. Check it out :point_down:
+This application allows you to relive the thrilling moment when the Argentine National Team lifts the World Cup. Built with pure JavaScript, HTML, and CSS, , you can play and pause the video at your leisure, as well as mute and unmute the audio. Immerse yourself in the excitement of Argentine soccer with just one click! ⚽
 
-:soccer: Here you can see the moment when Argentina won the FIFA World Cup 	:trophy:
+## Check It Out
+👉 [Vanilla JavaScript Argentina World Cup Champion Video Player 📺](https://santisb.github.io/Media-Player/) 
 
-## Features
+## 👨‍💻 How to Contribute
+I'm thrilled to have you contribute to the Rick and Morty Faves App !
+Follow these steps to get started:
 
-- Play / Pause video.
-- Mute / Volume video.
+### Fork the Repository: 
+Click the "Fork" button at the upper-right corner of the repository page. This action will create a personal copy of the repository in your GitHub account.
 
-
-## Demo
-
-
-
-
-
-https://user-images.githubusercontent.com/55597241/217697480-c2032e50-a344-42b4-b1b8-dd23f7c72cde.mp4
-
-
-
-
-
-## Try It Yourself
-
-:point_right: https://santisb.github.io/Media-Player/
-## Cloning
-
-Clone my-project with git clone
+### Clone the Forked Repository: 
+Clone your forked repository to your local machine using this command:
 
 ```bash
   git clone https://github.com/SantiSB/Media-Player.git
 ```
-## Installation
 
-Install packages with npm
-
-```bash
-  npm install
-```
-    
-## Deployment
-
-To deploy this project in local environment
+### Switch to the Develop Branch: 
+Navigate to the develop branch to ensure your work aligns with the latest development state:
 
 ```bash
-  nmp run start
+git checkout develop
 ```
 
+### Create a New Branch: 
+Move to the repository's directory and create a new branch for your contribution. Name the branch descriptively, such as feature-your-feature or bugfix-the-bug:
 
-## Tech Stack
+```bash
+git checkout -b feature-your-feature
+```
 
-![icons8-html-5-48](https://user-images.githubusercontent.com/55597241/217684664-ff7fd9fe-7585-4fa4-9730-9e36e84c004d.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/55597241/217684672-0b43ef76-66b4-4bf2-8db3-47a1032ea6d1.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/55597241/217684680-a256ed1c-bcd9-4506-a16b-41d6cb41356c.png)
+### Install Dependencies: 
+After cloning, navigate to the project directory and install required packages using npm:
 
-- :man_technologist: HTML
-- :man_technologist: CSS
-- :man_technologist: JavaScript
+```bash
+npm install
+```
+
+### Make Your Changes: 
+Implement the necessary changes or improvements to the codebase.
+
+### Commit and Push: 
+Once you've made your changes, commit them with a clear and concise commit message. Then, push your changes to your forked repository:
+
+```bash
+git add .
+git commit -m "Brief description of your changes"
+git push origin feature-your-feature
+```
+### Create a Pull Request: 
+Head to the original repository and click "Pull Request." Choose the develop branch as the target and provide a detailed description of your changes. Afterward, submit the pull request.
+
+### Review and Collaboration: 
+I will review your pull request and might offer feedback or suggestions to enhance your contribution. Collaboration and iteration are key!
+
+### Merge and Celebrate: 
+Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the User Manager App! 🎉
+
+## 👨‍💻 Tech Stack:
+
+
+
+ | [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+ | [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+ | [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
 ## Authors
-
-- :robot: [@SantiSB](https://github.com/SantiSB)
-
+[🐱‍💻@SantiSB](https://github.com/SantiSB)
