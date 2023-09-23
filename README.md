@@ -63,8 +63,9 @@ I will review your pull request and might offer feedback or suggestions to enhan
 Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the User Manager App! 🎉
 
 ## 👨‍💻 Tech Stack:
-
-
+![html](https://github.com/SantiSB/Media-Player/assets/55597241/b009aff1-550a-4507-8875-7766a9890959)
+![css](https://github.com/SantiSB/Media-Player/assets/55597241/8d2acdb3-9acd-4a7d-bf32-600a3299f41d)
+![javascript](https://github.com/SantiSB/Media-Player/assets/55597241/a916ff6f-f658-4d6a-b797-4d940ddcd577)
 
  | [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
  | [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
