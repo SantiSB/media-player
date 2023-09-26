@@ -60,7 +60,7 @@ Head to the original repository and click "Pull Request." Choose the develop bra
 I will review your pull request and might offer feedback or suggestions to enhance your contribution. Collaboration and iteration are key!
 
 ### Merge and Celebrate: 
-Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the User Manager App! 🎉
+Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the Media Player App! 🎉
 
 ## 👨‍💻 Tech Stack:
 ![html](https://github.com/SantiSB/Media-Player/assets/55597241/b009aff1-550a-4507-8875-7766a9890959)
